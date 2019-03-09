@@ -3,6 +3,7 @@
 // added js hint line
 // mon 17:48
 // tues 12:31
+// sat 12:54
 
 
 //test js 2 hello 2 has changed again safdsafa
@@ -11,6 +12,7 @@
 // just added another line
 // js hint line 2 3 4
 // time is 17:11
+// sat 12:54
 /*
 window.onload = function () {
     
@@ -40,7 +42,7 @@ window.onload = function () {
 };
 */
 window.onload = function () {
-    
+    // sat 12:54
     //var tlOne, banner, background, backgroundimageOne, FrameOne, cta, bgexit;
     var tlOne = new TimelineLite();
     var tlTwo = new TimelineLite();
