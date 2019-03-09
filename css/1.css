@@ -4,6 +4,7 @@ transform-origin: 120% 40%;
   backface-visibility: hidden;
   box-sizing: border-box;
   display: flex;
+	opacity: 1;
   /*add xtra line*/
 }
 

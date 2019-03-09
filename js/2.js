@@ -5,6 +5,7 @@
 // js hint line 2 3 4
 // time is 17:11
 // sat 12:54
+// sat 15:48
 /*
 window.onload = function () {
     
