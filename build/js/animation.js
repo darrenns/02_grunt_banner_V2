@@ -6,6 +6,7 @@
 // sat 12:54
 
 
+
 //test js 2 hello 2 has changed again safdsafa
 // addded another line
 ///we have just added jshint for the second time
@@ -44,6 +45,7 @@ window.onload = function () {
 window.onload = function () {
     // sat 12:54
     //var tlOne, banner, background, backgroundimageOne, FrameOne, cta, bgexit;
+
     var tlOne = new TimelineLite();
     var tlTwo = new TimelineLite();
     var banner = document.getElementById("banner");
