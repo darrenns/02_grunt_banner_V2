@@ -4,8 +4,7 @@
 // just added another line
 // js hint line 2 3 4
 // time is 17:11
-// sat 12:54
-// sat 15:48
+// sat 15:47
 /*
 window.onload = function () {
     
