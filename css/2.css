@@ -1,0 +1,6 @@
+h3 {
+	display: flex;
+	 transform-origin: 20% 40%;
+  color: black;
+  text-align: center;
+}

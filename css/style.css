@@ -1,0 +1,149 @@
+    #banner {
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
+        -webkit-font-smoothing: antialiased !important;
+        text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004);
+        width: 300px;
+        height: 250px;
+        position: absolute;
+        cursor: pointer;
+        overflow: hidden;
+        -webkit-backface-visibility: hidden;
+        -moz-backface-visibility: hidden;
+        -ms-backface-visibility: hidden;
+        margin: auto;
+        top: 0px;
+        bottom: 0px;
+        left: 0px;
+        right: 0px;
+        box-sizing: border-box;
+        -moz-box-sizing: border-box;
+        -webkit-box-sizing: border-box;
+        border: 1px solid #000;
+        opacity: 1;
+        background-color: #fff;
+    }
+    
+    .copy {
+        font-size: 28px;
+        /*font-weight:bold;*/
+        letter-spacing: 0px;
+        font-weight: 500;
+    }
+    
+    #banner img,
+    #banner div {
+        position: absolute;
+        opacity: 1;
+        font-family: HelveticaLight, Helvetica, Arial, "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Segoe UI, InfoText, Calibiri, Arial Unicode MS;
+        /*font-family: "Arial", sans-serif;
+        font-weight: bold;*/
+        text-align: center;
+		
+    }
+	#banner #testText {
+		background-color: blue;
+		bottom: 50px;
+		width: 100px;
+		height: 100px;
+		opacity: 1;
+		color: black;
+		z-index: 1000;
+		opacity: 0;
+	}
+
+
+    #banner #BackgroundImage {
+        background-image: url('../images/background.jpg');
+        border: none;
+        opacity: 1;
+        width: 300px;
+        height: 100%;
+        right: 0px;
+    }
+    
+    #banner #FrameOne {
+        border: none;
+        opacity: 1;
+        width: 300px;
+        height: 100%;
+        right: 0px;
+    }
+    
+	#banner #FrameOne #graphicSvgCodeOne {
+        background-image: url('../images/A.svg');
+        opacity: 1;
+        width: 100%;
+        height: 100%;
+        right: 0px;
+    }
+	
+	#banner #FrameOne #graphicSvgCodeTwo {
+        /*background-image: url('../images/A.svg'); */
+		/*background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30'><circle cx='15' cy='15' r='10' /></svg>")  no-repeat; */
+		
+		background: url('data:image/svg+xml;utf8, <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 250" style="enable-background:new 0 0 300 250;" xml:space="preserve"> <g> <path d="M109.2,144.2l-13.3,40.3H78.8l43.5-128.1h20L186,184.5h-17.7l-13.7-40.3H109.2z M151.2,131.3l-12.5-36.9 c-2.9-8.4-4.8-16-6.7-23.4h-0.4c-1.9,7.6-4,15.4-6.5,23.2l-12.5,37.1H151.2z"/></g></svg>')  no-repeat; 
+        opacity: 1;
+        width: 80%;
+		height: 80%;
+        right: -100px;
+    }
+
+	#banner #FrameOne #graphicSvgCodeThree {
+        /*background-image: url('../images/A.svg'); */
+		/*background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30'><circle cx='15' cy='15' r='10' /></svg>")  no-repeat; */
+		
+		background: url('data:image/svg+xml;utf8, <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 300 250" style="enable-background:new 0 0 300 250;" xml:space="preserve"><g><path d="M109.2,144.2l-13.3,40.3H78.8l43.5-128.1h20L186,184.5h-17.7l-13.7-40.3H109.2z M151.2,131.3l-12.5-36.9 c-2.9-8.4-4.8-16-6.7-23.4h-0.4c-1.9,7.6-4,15.4-6.5,23.2l-12.5,37.1H151.2z"/></g></svg>')  no-repeat; 
+        opacity: 1;
+        width: 50%;
+		height: 50%;
+        right: 100px;
+    }
+
+	#banner #graphicSvgCodeFour {
+		background-image: url('../images/hello.svg');
+        opacity: 1;
+        width: 80%;
+		height: 80%;
+        right: 0px;
+    }
+
+	#banner #FrameOne #copySplitTextExample {
+		position: absolute;
+		font-size:16px;
+  		line-height:28px;
+	    color:#000;
+		left: 0px;
+	}
+
+    #banner #Logo {
+        position: absolute;
+        bottom: 0px;
+        right: 0px;
+        z-index: 9999;
+        opacity: 1;
+    }
+    
+    #banner #cta {
+        font-weight: bold;
+        background-color: #333;
+        font-size: 12px;
+        line-height: 18px;
+        text-align: center;
+        color: #fff;
+        position: absolute;
+        padding-top: 11px;
+        height: 29px;
+        left: 86px;
+        top: 120px;
+        width: 134px;
+        opacity: 1;
+    }
+    
+    #banner #bgexit {
+        opacity: 1;
+        cursor: pointer;
+        z-index: 2101;
+        width: 100%;
+        height: 100%;
+    }
