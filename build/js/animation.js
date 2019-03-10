@@ -3,7 +3,6 @@
 // added js hint line
 // mon 17:48
 // tues 12:31
-// sat 12:54
 
 
 
