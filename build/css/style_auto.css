@@ -20,9 +20,9 @@ h1 {
   display: -moz-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-transform-origin: 20% 40%;
-      -ms-transform-origin: 20% 40%;
-          transform-origin: 20% 40%;
+  -webkit-transform-origin: 10% 10%;
+      -ms-transform-origin: 10% 10%;
+          transform-origin: 10% 10%;
   color: black;
   text-align: center;
    /*add xtra line*/
