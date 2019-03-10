@@ -3,7 +3,6 @@
 // added js hint line
 // mon 17:48
 // tues 12:31
-//hello
 
 
 
@@ -13,6 +12,7 @@
 // just added another line
 // js hint line 2 3 4
 // time is 17:11
+// sat 12:54
 /*
 window.onload = function () {
     
